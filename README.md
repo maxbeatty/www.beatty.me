@@ -1,2 +1,4 @@
 # www.beatty.me
-Beatty.me website
+> Custom domains for Beattys by a Beatty
+
+Run locally: `php -S localhost:8080` (or whatever port you like)
